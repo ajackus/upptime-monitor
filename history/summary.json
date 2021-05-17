@@ -1,40 +1,22 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
-    "slug": "google",
+    "name": "Ajackus Invalid",
+    "url": "https://ajackus.com1",
+    "icon": "https://favicons.githubusercontent.com/ajackus.com1",
+    "slug": "ajackus-invalid",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 71,
-    "timeDay": 71,
-    "timeWeek": 71,
-    "timeMonth": 71,
-    "timeYear": 71,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Ajackus",
-    "url": "https://ajackus.com",
-    "icon": "https://favicons.githubusercontent.com/ajackus.com",
-    "slug": "ajackus",
-    "status": "down",
-    "uptime": "89.59%",
-    "uptimeDay": "89.59%",
-    "uptimeWeek": "89.59%",
-    "uptimeMonth": "89.59%",
-    "uptimeYear": "89.59%",
-    "time": 2340,
-    "timeDay": 2340,
-    "timeWeek": 2340,
-    "timeMonth": 2340,
-    "timeYear": 2340,
+    "uptime": "10.70%",
+    "uptimeDay": "10.70%",
+    "uptimeWeek": "10.70%",
+    "uptimeMonth": "10.70%",
+    "uptimeYear": "10.70%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-17": 37
+      "2021-05-17": 0
     }
   }
 ]
