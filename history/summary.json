@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 71,
-    "timeDay": 71,
-    "timeWeek": 71,
-    "timeMonth": 71,
-    "timeYear": 71,
+    "time": 72,
+    "timeDay": 72,
+    "timeWeek": 72,
+    "timeMonth": 72,
+    "timeYear": 72,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/ajackus.com1",
     "slug": "ajackus",
     "status": "down",
-    "uptime": "92.40%",
-    "uptimeDay": "92.40%",
-    "uptimeWeek": "92.40%",
-    "uptimeMonth": "92.40%",
-    "uptimeYear": "92.40%",
+    "uptime": "90.77%",
+    "uptimeDay": "90.77%",
+    "uptimeWeek": "90.77%",
+    "uptimeMonth": "90.77%",
+    "uptimeYear": "90.77%",
     "time": 2337,
     "timeDay": 2337,
     "timeWeek": 2337,
     "timeMonth": 2337,
     "timeYear": 2337,
     "dailyMinutesDown": {
-      "2021-05-17": 21
+      "2021-05-17": 26
     }
   }
 ]
