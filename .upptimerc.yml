@@ -21,7 +21,11 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-      
+
+assignees:
+  - yasmin2496
+  - rj588
+  
 # Workflow Schedule to run automated jobs
 workflowSchedule:
   graphs: "*/30 * * * *"
