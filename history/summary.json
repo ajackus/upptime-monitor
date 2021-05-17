@@ -1,22 +1,22 @@
 [
   {
-    "name": "Ajackus Invalid",
-    "url": "https://ajackus.com",
-    "icon": "https://favicons.githubusercontent.com/ajackus.com",
-    "slug": "ajackus-invalid",
+    "name": "Ajackus Test",
+    "url": "https://ajackus.com1",
+    "icon": "https://favicons.githubusercontent.com/ajackus.com1",
+    "slug": "ajackus-test",
     "status": "down",
-    "uptime": "0.91%",
-    "uptimeDay": "0.91%",
-    "uptimeWeek": "0.91%",
-    "uptimeMonth": "0.91%",
-    "uptimeYear": "0.91%",
-    "time": 2581,
-    "timeDay": 2581,
-    "timeWeek": 2581,
-    "timeMonth": 2581,
-    "timeYear": 2581,
+    "uptime": "2.20%",
+    "uptimeDay": "2.20%",
+    "uptimeWeek": "2.20%",
+    "uptimeMonth": "2.20%",
+    "uptimeYear": "2.20%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-17": 18
+      "2021-05-17": 0
     }
   }
 ]
