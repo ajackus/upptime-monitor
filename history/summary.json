@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/ajackus.com",
     "slug": "ajackus",
     "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "uptime": "99.73%",
+    "uptimeDay": "97.04%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
     "time": 2260,
     "timeDay": 2446,
-    "timeWeek": 2336,
+    "timeWeek": 2338,
     "timeMonth": 2260,
     "timeYear": 2260,
     "dailyMinutesDown": {
-      "2021-06-06": 11,
+      "2021-06-06": 42,
       "2021-05-17": 37
     }
   }
