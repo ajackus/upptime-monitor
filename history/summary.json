@@ -2,7 +2,7 @@
   {
     "name": "Ajackus",
     "url": "https://ajackus.com",
-    "icon": "https://favicons.githubusercontent.com/ajackus.com",
+    "icon": "https://icons.duckduckgo.com/ip3/ajackus.com.ico",
     "slug": "ajackus",
     "status": "down",
     "uptime": "99.79%",
@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 304,
-    "timeDay": 353,
-    "timeWeek": 412,
+    "timeDay": 342,
+    "timeWeek": 411,
     "timeMonth": 409,
     "timeYear": 304,
     "dailyMinutesDown": {
