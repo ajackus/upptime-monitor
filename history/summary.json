@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/ajackus.com.ico",
     "slug": "ajackus",
     "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptime": "99.83%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 333,
     "timeDay": 379,
@@ -16,7 +16,7 @@
     "timeMonth": 306,
     "timeYear": 331,
     "dailyMinutesDown": {
-      "2023-02-11": 0,
+      "2023-02-11": 11,
       "2022-04-01": 24,
       "2022-02-17": 16
     }
