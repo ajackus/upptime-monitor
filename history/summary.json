@@ -6,9 +6,9 @@
     "slug": "ajackus",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 335,
     "timeDay": 365,
@@ -16,7 +16,6 @@
     "timeMonth": 353,
     "timeYear": 335,
     "dailyMinutesDown": {
-      "2025-07-20": 12,
       "2025-04-03": 36
     }
   }
