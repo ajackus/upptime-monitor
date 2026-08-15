@@ -4,14 +4,14 @@
     "url": "https://ajackus.com",
     "icon": "https://icons.duckduckgo.com/ip3/ajackus.com.ico",
     "slug": "ajackus",
-    "status": "down",
+    "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "96.53%",
     "time": 378,
-    "timeDay": 311,
+    "timeDay": 310,
     "timeWeek": 334,
     "timeMonth": 352,
     "timeYear": 378,
@@ -41,7 +41,7 @@
       "2026-01-06": 1440,
       "2026-01-05": 1440,
       "2026-01-04": 25,
-      "2026-08-15": 2
+      "2026-08-15": 14
     }
   }
 ]
